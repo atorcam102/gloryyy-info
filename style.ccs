@@ -1,0 +1,18 @@
+/* Estilos generales */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  line-height: 1.5;
+}
+
+/* Estilos específicos para elementos */
+/* ... */
